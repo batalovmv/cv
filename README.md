@@ -10,7 +10,7 @@ Junior Frontend Developer (React · TypeScript)
 ➡️ **[Открыть резюме](./Mikhail_Batalov_CV_modern_onepage.pdf)**
 
 ## 📎 Скачать CV (PDF)
-➡️ **[Скачать резюме](https://raw.githubusercontent.com/USERNAME/REPO/main/Mikhail_Batalov_CV_modern_onepage.pdf)**
+➡️ **[Скачать резюме](https://raw.githubusercontent.com/batalovmv/cv/main/Mikhail_Batalov_CV_modern_onepage.pdf)**
 
 ## 📬 Контакты
 - Email: **batalov94@gmail.com**
